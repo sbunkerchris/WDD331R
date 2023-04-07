@@ -8,8 +8,8 @@ const linkList = [
     { label: 'Week 8', url: 'SiteFiles/W08/index.html' },
     { label: 'Week 9', url: 'SiteFiles/W09/index.html' },
     { label: 'Week 10', url: 'SiteFiles/W10/index.html' },
-    { label: 'Week 10', url: 'SiteFiles/W10/index.html' },
-    { label: 'Week 10', url: 'SiteFiles/W10/index.html' },
+    { label: 'Week 11', url: 'SiteFiles/W11/index.html' },
+    { label: 'Week 12', url: 'SiteFiles/W12/index.html' },
   ];
 
   function addLinks() {
