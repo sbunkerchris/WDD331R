@@ -2,7 +2,7 @@ const linkList = [
     { label: 'Week 1', url: 'SiteFiles/W01/index.html' },
     { label: 'Week 3', url: 'SiteFiles/W03/index.html' },
     { label: 'Week 5 - CSS Grid', url: 'SiteFiles/W05/index.html' },
-    { label: 'Week 5 - Responsive', url: 'SiteFiles/W06/responsibe.html' },
+    { label: 'Week 5 - Responsive', url: 'SiteFiles/W05/responsibe.html' },
     { label: 'Week 6', url: 'SiteFiles/W06/index.html' },
     { label: 'Week 7', url: 'SiteFiles/W07/index.html' },
     { label: 'Week 8', url: 'SiteFiles/W08/index.html' },
